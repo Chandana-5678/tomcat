@@ -1,2 +1,4 @@
-# tomcat
-java sample project for tomcat
+java-hello-world-webapp
+=======================
+
+A simple java web app
